@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\dtgv2\dtgv2\bin\Debug\dtgv2.exe.config
+C:\Users\legen\source\repos\dtgv2\dtgv2\bin\Debug\dtgv2.exe
+C:\Users\legen\source\repos\dtgv2\dtgv2\bin\Debug\dtgv2.pdb
+C:\Users\legen\source\repos\dtgv2\dtgv2\obj\Debug\dtgv2.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\dtgv2\dtgv2\obj\Debug\dtgv2.Form1.resources
+C:\Users\legen\source\repos\dtgv2\dtgv2\obj\Debug\dtgv2.Properties.Resources.resources
+C:\Users\legen\source\repos\dtgv2\dtgv2\obj\Debug\dtgv2.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\dtgv2\dtgv2\obj\Debug\dtgv2.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\dtgv2\dtgv2\obj\Debug\dtgv2.exe
+C:\Users\legen\source\repos\dtgv2\dtgv2\obj\Debug\dtgv2.pdb
